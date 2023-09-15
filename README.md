@@ -4,7 +4,7 @@
 
 I am Ederes. I am an aspiring full stack web developer and love to learn new things. There is nothing better than taking on and beating challenges. 
 
-![A picture of me](href="croppedpic.jpg")
+![A picture of me](./readme/croppedpic.jpg)
 
 
 ## List of Projects
